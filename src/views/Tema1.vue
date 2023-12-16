@@ -108,7 +108,7 @@
           img(src='@/assets/curso/temas/img-8.svg', alt='Se presenta un ejemplo de árbol de problemas con el aumento de quejas y reclamos como problema central. Las causas identificadas incluyen un deficiente servicio postventa, mientras que los efectos abarcan la disminución de las compras realizadas por los clientes, entre otros aspectos.')
           figcaption Nota. Tomado y adaptado de Betancourt, D. F. Ejemplo práctico. (05 de julio de 2016).
 
-    p.mb-5(data-aos="fade-down") En el diagrama las flechas deben estar ubicadas hacían arriba, lo que permite evidenciar la relación de causa - efecto - problema, como se muestra a continuación:
+    p.mb-5(data-aos="fade-down") En el diagrama las flechas deben estar ubicadas hacia arriba, lo que permite evidenciar la relación de causa - efecto - problema, como se muestra a continuación:
     
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-12.col-lg-10
